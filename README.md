@@ -31,8 +31,8 @@ Images:
 ggx.test displays the 3 different types of wood built into the program: oak, mahogany, and walnut.
 The left 3 spheres display the same grain direction, while the right 3 spheres display varying grain direction.
 
-![Alt text](relative/path/to/dragon.png?raw=true "Title")
+![Screenshot](dragon.png)
 dragon.test displays the use of the wood material as a wall or floor material.
 
-![Alt text](relative/path/to/dragon2.png?raw=true "Title")
+![Screenshot](dragon2.png)
 dragon2.test displays the use of the wood material on a complex, high polygon-count object.
