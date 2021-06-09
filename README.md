@@ -27,7 +27,7 @@ Usage:
 	wooddim origin.x origin.y origin.z direction.x direction.y direction.z witdth
 
 Images:
-![Alt text](relative/path/to/ggx.png?raw=true "Title")
+![Screenshot](ggx.png)
 ggx.test displays the 3 different types of wood built into the program: oak, mahogany, and walnut.
 The left 3 spheres display the same grain direction, while the right 3 spheres display varying grain direction.
 
