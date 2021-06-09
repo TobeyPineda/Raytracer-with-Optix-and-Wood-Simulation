@@ -27,12 +27,12 @@ Usage:
 	wooddim origin.x origin.y origin.z direction.x direction.y direction.z witdth
 
 Images:
-<img src=~/ggx.png/> 
+![alt text](https://github.com/TobeyPineda/CSE-168-Final-Project/ggx.png?raw=true)
 ggx.test displays the 3 different types of wood built into the program: oak, mahogany, and walnut.
 The left 3 spheres display the same grain direction, while the right 3 spheres display varying grain direction.
 
-<img src=~/dragon.png/> 
+![alt text](https://github.com/TobeyPineda/CSE-168-Final-Project/dragon.png?raw=true)
 dragon.test displays the use of the wood material as a wall or floor material.
 
-<img src=~/dragon2.png/> 
+![alt text](https://github.com/TobeyPineda/CSE-168-Final-Project/dragon2.png?raw=true)
 dragon2.test displays the use of the wood material on a complex, high polygon-count object.
