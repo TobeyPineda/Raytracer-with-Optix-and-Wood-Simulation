@@ -3,7 +3,8 @@
 
 UCSD Online Username: tpineda
 
-UCSD Online Email: tpineda@ucsd.edu
+UCSD Online Email: tpineda@ucsd.edu 
+
 CSE 168 Final Project
 
 I implemented a procedural wood material based on the research paper:
