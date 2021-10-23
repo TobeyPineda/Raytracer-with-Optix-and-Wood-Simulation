@@ -47,6 +47,11 @@ For the final project, implemented a procedural wood material based on the resea
 https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of_solid_wood.pdf
 
 ---
+### Direct Lighting
+
+|Analytic|3x3 Subdivided|9x9 Subdivided|Multiple Light Sources| 
+|:-:|:-:|:-:|:-:|
+| <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/analytic.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/direct3x3.png" width="150" /> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/direct9.png" width="150" /> |<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/sphere.png" width="150" /> |
 
 ### Cornell Box - Different Sampling Methods
 	
