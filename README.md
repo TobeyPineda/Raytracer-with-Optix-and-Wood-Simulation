@@ -40,4 +40,5 @@ Basic Growth rings were implemented with a square wave as a function of the radi
 Color was defined with a Beer's Law Curve, along with a Perlin Noise function, allowing the growth rings to naturally fluctuate colors. Futhermore both growth rings and color were further modulated with Perlin Noise to reduce the regularity of the pattern and increase realism.
 
 Distortion and fiber direction was implemented with a texture map that is rotated about the "cylinder" of wood. Values are fetched from the texture map as a function of the radius and "height" of the object.
+
 ---
