@@ -1,10 +1,6 @@
 # CSE 168 Final Project
 # Tobey Pineda
 
-UCSD Online Username: tpineda
-
-UCSD Online Email: tpineda@ucsd.edu 
-
 CSE 168 Final Project
 
 I implemented a procedural wood material based on the research paper:
@@ -38,42 +34,17 @@ dragon.test displays the use of the wood material as a wall or floor material.
 ![Screenshot](dragon2.png)
 dragon2.test displays the use of the wood material on a complex, high polygon-count object.
 
+
 # Raytracer w/ Optix - Simulating Wood
-### UCSD ENG 100D, Spring 2021
-
-ShelterBox Liaison: Carrie Baptista
-
-An interactive map for ShelterBox built with Mapbox, HTML/CSS, and Javascript.
-
-| Team Members | Description |
-| ----------- | ----------- |
-| Andy Liu | Software Developer |
-| Collin Kawahara | Software Developer |
-| Tobey Pineda | Software Developer |
-| Sam Burkholder | Software Developer |
-| Selena Somvilay | UX Researcher |
-| Michelle Tenin | UX Researcher |
-| Santino Espiritu | Community Liaison  |
-| Brian Han | UX Researcher |
+### UCSD CSE 168, Spring 2021
 
 ---
 
-<p align="center">
-  <img width="512" height="262" src="https://github.com/TobeyPineda/Shelterbox-InteractiveCaseStudyMap/blob/main/Images/ShelterboxDemo.gif">
-</p>
-<p align="center">
-  <a href="https://ckawahar.github.io/ShelterBoxCaseStudyMap/">Final Deliverable</a>
-</p>
+### The Raytracer:
+This raytracer makes use of state of the art techniques and algorithms including real-time ray and path tracing in OptiX, and a modern path tracer with multiple importance sampling.
 
----
-
-### About Shelterbox:
-Since 2000, ShelterBox has helped 1.7 million people by providing emergency shelter following more than 300 disasters in 95 countries.
-
-ShelterBox responds urgently to earthquake, volcano, flood, hurricane, cyclone, tsunami, or conflict by delivering emergency shelter and other aid, including blankets, water filter and carriers, solar lights, and other essential tools for survival.
-
-#### Case Studies:
-Case Studies are ShelterBox's way of documenting the stories and struggles of people who are affected by natural disasters or conflict. This typically includes a personal story and photos of the people and their current living situation.
+For the final project, implemented a procedural wood material based on the research paper:
+https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of_solid_wood.pdf
 
 ---
 ### Objective:
