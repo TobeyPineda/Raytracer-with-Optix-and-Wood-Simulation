@@ -48,9 +48,8 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 
 ---
 
-### About the Project:
-ShelterBox wants a deliverable that will not only attract more users but also retain the existing donors and encourage younger generations to start gaining interest. We aimed to improve the overall experience and visuals designs of the map to make the first impression appealing to first time visitors while also offering a seamless experience. Furthermore, we wanted to demonstrate the impact Shelterbox has had on communities throughout the world, so that it would resonate with users. Lastly, the workflow to add features and update data is significantly simplified by utilizing only Google Spreadsheets and basic web development languages
-
+### Cornell Box - Different Sampling Methods
+![Simple](https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellSimple.png)
 
 #### Design Team:
 - Figma
