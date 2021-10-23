@@ -71,4 +71,13 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 |Multiple Importance Sampling|GGX BRDF|Final Dragon|
 |:-:|:-:|:-:|
 | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWoodFloor.png"  height="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/ggxWood.png"  height="150"/> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWood.png" height="150" /> |
+
+Basic Growth rings were implemented with a square wave as a function of the radius from the origin of the wood grain and a user defined grain width.
+
+Color was defined with a Beer's Law Curve, along with a Perlin Noise function, allowing the growth rings to naturally fluctuate colors. Futhermore both growth rings and color were further modulated with Perlin Noise to reduce the regularity of the pattern and increase realism.
+
+Distortion and fiber direction was implemented with a texture map that is rotated about the "cylinder" of wood. Values are fetched from the texture map as a function of the radius and "height" of the object.
+
+Usage: wood [on/off] woodtype [oak/mahogany/walnut] woodtypeman earlywoodcolor.x earlywoodcolor.y earlywoodcolor.z latewoodcolor.x latewoodcolor.y latewoodcolor.z wooddim origin.x origin.y origin.z direction.x direction.y direction.z witdth
+
 ---
