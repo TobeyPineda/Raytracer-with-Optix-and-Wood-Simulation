@@ -49,20 +49,8 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 ---
 
 ### Cornell Box - Different Sampling Methods
-
-| <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellSimple.png" width="150" />)| <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellCosine.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellRR.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellNEE.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellBRDF.png" width="150" /> |
-<p float="left" align="center">
-  		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellSimple.png" width="150" />
-  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
-  		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellCosine.png" width="150" /> 
-  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
-  		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellRR.png" width="150" />
-  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
-  		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellNEE.png" width="150" />
-  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
-  		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellBRDF.png" width="150" />
-  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
-</p>
+|Simple Sampling|Cosine Sampling|Nearest Event Estimation Sampling|Round Robin Sampling|BRDF Sampling|
+| <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellSimple.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellCosine.png" width="150" /> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellNEE.png" width="150" /> |<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellRR.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellBRDF.png" width="150" /> |
 
 
 #### Design Team:
