@@ -41,4 +41,3 @@ Color was defined with a Beer's Law Curve, along with a Perlin Noise function, a
 
 Distortion and fiber direction was implemented with a texture map that is rotated about the "cylinder" of wood. Values are fetched from the texture map as a function of the radius and "height" of the object.
 
----
