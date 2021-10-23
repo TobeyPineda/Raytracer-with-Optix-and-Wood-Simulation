@@ -53,6 +53,8 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 	<a>
   		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellSimple.png" width="150" />
   		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
+		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellCosine.png" width="150" /> 
+  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
 	</a>
 	<a>
   		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellCosine.png" width="150" /> 
