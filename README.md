@@ -53,7 +53,7 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 |:-:|:-:|:-:|:-:|:-:|
 | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/analytic.png" width="150" /> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/direct9.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/direct3x3.png" width="150" /> |<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/sphere.png" width="150" /> |<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornell.png" width="150" /> |
 
-### Cornell Box - Different Sampling Methods
+### Indirect Lighting - Different Sampling Methods
 	
 |Simple Sampling|Cosine Sampling|Nearest Event <br> Estimation Sampling|Round Robin <br> Sampling|BRDF Sampling|
 |:-:|:-:|:-:|:-:|:-:|
