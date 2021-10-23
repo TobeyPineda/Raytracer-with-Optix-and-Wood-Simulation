@@ -33,7 +33,7 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 
 |Wood Floor|Different types of wood|Wood Dragon|
 |:-:|:-:|:-:|
-| <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWoodFloor.png"  height="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/ggxWood.png"  height="150"/> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWood.png" height="150" /> |
+| <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWoodFloor.png"  height="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/ggxWood.png"  height="100"/> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWood.png" height="150" /> |
 
 Basic Growth rings were implemented with a square wave as a function of the radius from the origin of the wood grain and a user defined grain width.
 
