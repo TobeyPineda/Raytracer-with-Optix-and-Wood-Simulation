@@ -47,6 +47,7 @@ For the final project, implemented a procedural wood material based on the resea
 https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of_solid_wood.pdf
 
 ---
+
 ### Direct Lighting
 
 |Analytic|9 Samples|3x3 Subdivided|Multiple <br> Light Sources|Cornell Box|
@@ -58,7 +59,12 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 |Simple Sampling|Cosine Sampling|Nearest Event <br> Estimation Sampling|Round Robin <br> Sampling|BRDF Sampling|
 |:-:|:-:|:-:|:-:|:-:|
 | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellSimple.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellCosine.png" width="150" /> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellNEE.png" width="150" /> |<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellRR.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellBRDF.png" width="150" /> |
+
+### Importance Sampling
 	
+|Multiple Importance Sampling|GGX BRDF|Final Dragon|
+|:-:|:-:|:-:|
+| <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/mis.png" width="200" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/ggxHighSamples.png" width="200" /> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonBRDF.png" width="200" /> |
 #### Design Team:
 - Figma
 
