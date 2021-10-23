@@ -25,13 +25,13 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 
 ### Importance Sampling
 	
-|Multiple Importance Sampling|GGX BRDF|Final Dragon|
+|Multiple <br> Importance Sampling|GGX BRDF|Final Dragon|
 |:-:|:-:|:-:|
 | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/mis.png"  height="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/ggxHighSamples.png"  height="150"/> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonBRDF.png" height="150" /> |
 
 ### Wood Sampling
 
-|Multiple Importance Sampling|GGX BRDF|Final Dragon|
+|Wood Floor|Different <br> types of wood|Wood Dragon|
 |:-:|:-:|:-:|
 | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWoodFloor.png"  height="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/ggxWood.png"  height="150"/> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWood.png" height="150" /> |
 
