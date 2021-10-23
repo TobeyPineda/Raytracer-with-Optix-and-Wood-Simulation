@@ -64,24 +64,11 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 	
 |Multiple Importance Sampling|GGX BRDF|Final Dragon|
 |:-:|:-:|:-:|
-| <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/mis.png"  height="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/ggxHighSamples.png"  height="150"/> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonBRDF.png" height="150" /> |
-#### Design Team:
-- Figma
+| <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/mis.png"  height="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/ggxHighSamples.png"  height="150"/> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWood.png" height="150" /> |
 
-#### Development Team:
-- Mapbox
-- Glitch
-- HTML
-- CSS
-- JavaScript
+### Wood Sampling
 
-#### Data:
-- Spreadsheets to input and manage case studies
-
-#### Design Requirements:
-- Discoverability
-- Desirability
-- Simplicity
-- Ease of Maintenance
-
+|Multiple Importance Sampling|GGX BRDF|Final Dragon|
+|:-:|:-:|:-:|
+| <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWoodFloor.png"  height="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/ggxWood.png"  height="150"/> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonBRDF.png" height="150" /> |
 ---
