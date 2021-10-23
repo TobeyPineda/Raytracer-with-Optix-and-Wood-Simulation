@@ -50,9 +50,11 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 
 ### Cornell Box - Different Sampling Methods
 <center>
+	
 |Simple Sampling|Cosine Sampling|Nearest Event Estimation Sampling|Round Robin Sampling|BRDF Sampling|
 |---|---|---|---|---|
 | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellSimple.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellCosine.png" width="150" /> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellNEE.png" width="150" /> |<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellRR.png" width="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellBRDF.png" width="150" /> |
+	
 </center>
 
 #### Design Team:
