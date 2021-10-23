@@ -51,26 +51,26 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 ### Cornell Box - Different Sampling Methods
 <p float="left" align="center">
 	
-	<a>
+	<div>
   		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellSimple.png" width="150" />
-  		<p style='width: 150px; text-align: center;'>Simple Sampling.</div>
-	</a>
-	<a>
+  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
+	</div>
+	<div>
   		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellCosine.png" width="150" /> 
-  		<p style='width: 150px; text-align: center;'>Simple Sampling.</div>
-	</a>
-	<a>
+  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
+	</div>
+	<div>
   		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellRR.png" width="150" />
-  		<p style='width: 150px; text-align: center;'>Simple Sampling.</div>
-	</a>
-	<a>
+  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
+	</div>
+	<div>
   		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellNEE.png" width="150" />
-  		<p style='width: 150px; text-align: center;'>Simple Sampling.</div>
-	</a>
-	<a>
+  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
+	</div>
+	<div>
   		<img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/cornellBRDF.png" width="150" />
-  		<p style='width: 150px; text-align: center;'>Simple Sampling.</div>
-	</a>
+  		<div style='width: 150px; text-align: center;'>Simple Sampling.</div>
+	</div>
 </p>
 
 
