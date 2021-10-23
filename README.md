@@ -31,7 +31,7 @@ https://www.cs.cornell.edu/projects/wood/simulating_the_structure_and_texture_of
 
 ### Wood Sampling
 
-|Wood Floor|Different <br> types of wood|Wood Dragon|
+|Wood Floor|Different types of wood|Wood Dragon|
 |:-:|:-:|:-:|
 | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWoodFloor.png"  height="150" /> | <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/ggxWood.png"  height="150"/> |  <img src="https://github.com/TobeyPineda/Raytracer-with-Optix-and-Wood-Simulation/blob/main/Images/dragonWood.png" height="150" /> |
 
