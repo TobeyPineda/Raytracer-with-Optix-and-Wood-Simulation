@@ -1,6 +1,8 @@
 # Raytracer w/ Optix - Simulating Wood
 ### UCSD CSE 168 Final Project, Spring 2021
 
+Professor: Ravi Ramamoorthi
+
 ---
 
 ### The Raytracer:
